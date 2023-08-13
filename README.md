@@ -4,4 +4,6 @@
 > - 支持青龙面板
 
 ## 拉库命令
-ql repo https://github.com/hhhanzzz/scripts.git "src" "backup" "utils"
+ql repo https://github.com/hhhanzzz/scripts.git "" "backup" "utils"
+
+## [咿呀咿呀哟](https://t.me/hhhan_script)
