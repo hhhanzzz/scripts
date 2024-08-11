@@ -11,6 +11,7 @@ pnpm-lock.yaml
 config.yaml
 config.yml
 config.sh
+backup
 
 # Editor directories and files
 .idea
