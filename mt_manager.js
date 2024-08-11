@@ -1,7 +1,7 @@
 
 /*
  * MT管理器
- * @tips MT社区签到
+ * @tips MT论坛签到
  * @author https://github.com/hhhanzzz
  * @update 2024/08/11
  * @tg https://t.me/hhhan_script
