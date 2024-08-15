@@ -12,8 +12,9 @@ ql repo https://github.com/hhhanzzz/scripts.git "" "backup|sendNotify" "utils"
 <details>
   <summary>查看脚本列表</summary>
 
-  - [x] [MT论坛](https://bbs.binmt.cc)每日签到
+  - [x] [MT论坛](https://bbs.binmt.cc)签到
   - [x] [刺猬猫阅读](https://wap.ciweimao.com)签到、任务、检索宝箱
+  - [x] [巴奴毛肚火锅](https://raw.githubusercontent.com/hhhanzzz/scripts/main/bnmdhg.js)签到
 
 </details>
 
